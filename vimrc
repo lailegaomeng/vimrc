@@ -86,6 +86,7 @@ Plug 'connorholyday/vim-snazzy'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'ycm-core/YouCompleteMe'
+Plug
 call plug#end()
 autocmd VimEnter * NERDTree
 let g:SnazzyTransparent = 1
